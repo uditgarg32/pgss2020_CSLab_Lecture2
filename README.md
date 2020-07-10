@@ -11,4 +11,14 @@
 
 ****What we have done so far:****
 
+Week 1:
+- How to set up a development environment on the cloud for the purpose of analysis of data in r and python 
+- One click notebooks for python - Google Colab
+- Github for code repositories
+- How to host a web-page on github pages (github.io...)
 
+Week 2:
+- Leveraging Colab to connect to google drive and other data sources on the internet
+- Populate tabular pandas data frames for analysis
+- Random forest classifier based on Iris data to predict multi-class outcomes of flower types from numeric attributes of the flowers
+- Regression and classification
