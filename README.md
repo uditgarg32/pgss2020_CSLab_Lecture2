@@ -8,3 +8,7 @@
 
 * LoadingIRISData.ipynb was a way to creates data frames from internal and external datasets that contain tabular data
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/uditgarg32/pgss2020_CSLab_Lectures/blob/master/MyNotebooks/LoadingIRISData.ipynb) 
+
+****What we have done so far:****
+
+
