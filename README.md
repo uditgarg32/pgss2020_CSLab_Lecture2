@@ -22,3 +22,6 @@ Week 2:
 - Populate tabular pandas data frames for analysis
 - Random forest classifier based on Iris data to predict multi-class outcomes of flower types from numeric attributes of the flowers
 - Regression and classification
+- LIME and SHAP machine learning to understand why something made a specific prediction
+- 
+
