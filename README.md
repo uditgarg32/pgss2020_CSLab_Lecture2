@@ -25,5 +25,7 @@ Week 2:
 - LIME and SHAP machine learning to understand why something made a specific prediction
 
 Week 3: 
-- 
+- Ingesting data through forms, google sheets, public datasets, CSV
+- Data Munging: Selecting columns of interest, removing rows with missing values
+- Modeling: Linear vs Non-linear, supervised vs unsupervised vs reinforcement training
 
