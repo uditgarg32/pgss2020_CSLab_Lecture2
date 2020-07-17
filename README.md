@@ -28,4 +28,7 @@ Week 3:
 - Ingesting data through forms, google sheets, public datasets, CSV
 - Data Munging: Selecting columns of interest, removing rows with missing values
 - Modeling: Linear vs Non-linear, supervised vs unsupervised vs reinforcement training
-
+- Hosting a webpage
+- DevOps for AI/ML
+- PaaS offerings for PHP substitution to submit data
+- Code organization
